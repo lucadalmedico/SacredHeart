@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pazienti>
+    <Paziente>
+        <nome>Elisa</nome>
+        <cognome>Cattaneo</cognome>
+        <nascita>06/05/1969</nascita>
+        <codiceFiscale>SECTN69E46G224E</codiceFiscale>
+        <sesso>F</sesso>
+    </Paziente>
+    <Donatore>
+        <nome>Massimo</nome>
+        <cognome>Fanucci</cognome>
+        <nascita>17/11/1989</nascita>
+        <codiceFiscale>MSSFCC89S17G224K</codiceFiscale>
+        <sesso>M</sesso>
+        <gruppo>AB</gruppo>
+        <fattore>true</fattore>
+    </Donatore>
+    <Donatore>
+        <nome>Matilde</nome>
+        <cognome>Marchesi</cognome>
+        <nascita>16/09/1974</nascita>
+        <codiceFiscale>MTLMCH74P56G224B</codiceFiscale>
+        <sesso>F</sesso>
+        <gruppo>A</gruppo>
+        <fattore>false</fattore>
+    </Donatore>
+    <Paziente>
+        <nome>Oscar</nome>
+        <cognome>Romano</cognome>
+        <nascita>27/11/1947</nascita>
+        <codiceFiscale>SCRRMN47S27G224J</codiceFiscale>
+        <sesso>M</sesso>
+    </Paziente>
+    <Paziente>
+        <nome>Alessandro</nome>
+        <cognome>Trentino</cognome>
+        <nascita>25/07/1975</nascita>
+        <codiceFiscale>LSSTNT75L25G224Z</codiceFiscale>
+        <sesso>M</sesso>
+    </Paziente>
+</Pazienti>

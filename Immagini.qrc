@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="logo">./Images/logo.png</file>
+    <file alias="info">./Images/info.svg</file>
+    <file alias="aggiungi">./Images/plus.svg</file>
+    <file alias="cancella">./Images/cancel.svg</file>
+    <file alias="modifica">./Images/support.svg</file>
+    <file alias="appuntamenti">./Images/calendar.svg</file>
+    <file alias="pazienti">./Images/conference_call.svg</file>
+    <file alias="errore">./Images/high_priority.svg</file>
+    <file alias="salva">./Images/download.svg</file>
+    <file alias="esci">./Images/import.svg</file>
+    <file alias="aggiorna">./Images/synchronize.svg</file>
+    <file alias="dipendenti">./Images/briefcase.svg</file>
+    <file alias="apri">./Images/opened_folder.svg</file>
+    <file alias="chiave">./Images/key.svg</file>
+    <file alias="logout">./Images/lock.svg</file>
+    <file alias="backup">./Images/safe.svg</file>
+</qresource>
+</RCC>

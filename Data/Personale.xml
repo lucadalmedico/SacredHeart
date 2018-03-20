@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Personale>
+    <Primario username="admin" password="admin">
+        <nome>Enrico</nome>
+        <cognome>Angelo</cognome>
+        <nascita>18/03/1953</nascita>
+        <codiceFiscale>NGLNRC53C18G224M</codiceFiscale>
+        <sesso>M</sesso>
+        <stipendio>3000</stipendio>
+        <studio>a03</studio>
+    </Primario>
+    <Medico username="Cappegard" password="thah9pahT">
+        <nome>Cristina</nome>
+        <cognome>Cremonesi</cognome>
+        <nascita>26/09/1969</nascita>
+        <codiceFiscale>CRSCMN69P66G224H</codiceFiscale>
+        <sesso>F</sesso>
+        <stipendio>2100</stipendio>
+        <studio>af3</studio>
+    </Medico>
+    <Medico username="Rivery" password="Johfoo7Ayah">
+        <nome>Riccardo</nome>
+        <cognome>Genovesi</cognome>
+        <nascita>07/11/1978</nascita>
+        <codiceFiscale>GNVRCR78S07G224X</codiceFiscale>
+        <sesso>M</sesso>
+        <stipendio>2200</stipendio>
+        <studio>a01</studio>
+    </Medico>
+    <Segreteria username="user2" password="user">
+        <nome>Edoardo</nome>
+        <cognome>Lori</cognome>
+        <nascita>07/11/1989</nascita>
+        <codiceFiscale>DRDLRO89S07G224N</codiceFiscale>
+        <sesso>M</sesso>
+        <stipendio>1300</stipendio>
+    </Segreteria>
+    <Medico username="user1" password="user">
+        <nome>Elisa</nome>
+        <cognome>Onio</cognome>
+        <nascita>11/07/1968</nascita>
+        <codiceFiscale>NOILSE68L51G224E</codiceFiscale>
+        <sesso>F</sesso>
+        <stipendio>2000</stipendio>
+        <studio>a02</studio>
+    </Medico>
+</Personale>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pazienti>
+    <Paziente>
+        <nome>Filippo</nome>
+        <cognome>Carraro</cognome>
+        <nascita>13/04/1992</nascita>
+        <codiceFiscale>CRRFPP92D13G224J</codiceFiscale>
+        <sesso>M</sesso>
+    </Paziente>
+    <Donatore>
+        <nome>Marta</nome>
+        <cognome>Genovesi</cognome>
+        <nascita>03/03/1979</nascita>
+        <codiceFiscale>GNVMRT79C43G224L</codiceFiscale>
+        <sesso>F</sesso>
+        <gruppo>B</gruppo>
+        <fattore>true</fattore>
+    </Donatore>
+</Pazienti>

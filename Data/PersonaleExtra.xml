@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Personale>
+    <Medico username="Daemi" password="Ghw0912">
+        <nome>Noemi</nome>
+        <cognome>Rossini</cognome>
+        <nascita>17/11/1978</nascita>
+        <codiceFiscale>RSSNMO78S57G224I</codiceFiscale>
+        <sesso>F</sesso>
+        <stipendio>2200</stipendio>
+        <studio>a05</studio>
+    </Medico>
+    <Segreteria username="Core6" password="Alpac@">
+        <nome>Marco</nome>
+        <cognome>Massimi</cognome>
+        <nascita>11/01/1979</nascita>
+        <codiceFiscale>MSSMRC79A11G224Q</codiceFiscale>
+        <sesso>M</sesso>
+        <stipendio>1300</stipendio>
+    </Segreteria>
+</Personale>

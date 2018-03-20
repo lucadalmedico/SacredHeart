@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Appuntamenti>
+    <Visita>
+        <data>14:09:09 20/07/2014</data>
+        <paziente>SCRRMN47S27G224J</paziente>
+        <descrizione>Visita base</descrizione>
+        <Medico>GNVRCR78S07G224X</Medico>
+    </Visita>
+    <Visita>
+        <data>17:19:09 21/07/2014</data>
+        <paziente>SECTN69E46G224E</paziente>
+        <descrizione>Visita base</descrizione>
+        <Medico>GNVRCR78S07G224X</Medico>
+    </Visita>
+    <Visita>
+        <data>12:29:09 22/07/2014</data>
+        <paziente>LSSTNT75L25G224Z</paziente>
+        <descrizione>Visita base</descrizione>
+        <Medico>GNVRCR78S07G224X</Medico>
+    </Visita>
+    <Donazione>
+        <data>15:09:00 23/07/2014</data>
+        <paziente>MTLMCH74P56G224B</paziente>
+        <descrizione>Donazione globuli rossi</descrizione>
+    </Donazione>
+    <Visita>
+        <data>11:02:01 20/07/2017</data>
+        <paziente>LSSTNT75L25G224Z</paziente>
+        <descrizione>Visita base</descrizione>
+        <Medico>CRSCMN69P66G224H</Medico>
+    </Visita>
+    <Visita>
+        <data>17:09:09 24/07/2017</data>
+        <paziente>SECTN69E46G224E</paziente>
+        <descrizione>Visita base</descrizione>
+        <Medico>GNVRCR78S07G224X</Medico>
+    </Visita>
+</Appuntamenti>
